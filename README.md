@@ -12,4 +12,7 @@ Build a driver application that instantiates a CheckingAccount object and perfor
 
 ## About Solution
 
-# Files Included
+### Files Included
+
+### Demo
+![demo](demo.gif)
