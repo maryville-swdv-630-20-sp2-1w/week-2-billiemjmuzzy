@@ -1,0 +1,29 @@
+{
+    "11111": {
+        "name": {
+            "first_name": "Jane",
+            "last_name": "Doe"
+        },
+        "address": {
+            "street": "123 Main Street",
+            "city": "Minneapolis",
+            "state": "MN",
+            "zip": "55441"
+        },
+        "balance": 20.35
+    },
+
+    "22222": {
+        "name": {
+            "first_name": "John",
+            "last_name": "Doe"
+        },
+        "address": {
+            "street": "124 Main Street",
+            "city": "Minneapolis",
+            "state": "MN",
+            "zip": "55441"
+        },
+        "balance": 1.52
+    }
+}
