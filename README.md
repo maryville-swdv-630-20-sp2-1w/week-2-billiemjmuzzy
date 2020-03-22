@@ -14,5 +14,12 @@ Build a driver application that instantiates a CheckingAccount object and perfor
 
 ### Files Included
 
+- CheckingAccount.py: Class file
+- driver.py: File to execute program
+- data.json: driver.py reads from this file.
+
+Note: If you are executing this program there are only two account numbers that it will except due to what is contained in data.json. The account numbers are `11111` and `22222`
+
 ### Demo
+
 ![demo](demo.gif)
